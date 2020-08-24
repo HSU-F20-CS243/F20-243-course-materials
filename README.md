@@ -15,4 +15,4 @@ All projects will be hosted in Github using this organization (HSU-F20-CS243).  
 4. On that home page of that web app, you should see our course listed: HSU-F20-CS243.  Click the link to joing the course.  That generates an "invitation" to the HSU-F20-CS243 organization.  Click to accept the invitation.
 5. You should then be able to navigate to https://github.com/HSU-F20-CS243 and see that you are a part of the organization.
 
-If you have any difficulty, use the chat-cs346 channel on the CS Club Discord server.
+If you have any difficulty, use the chat-cs243 channel on the CS Club Discord server.
