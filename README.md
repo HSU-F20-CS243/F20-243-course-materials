@@ -5,6 +5,7 @@
 * [Nand2Tetris Software Package](https://www.nand2tetris.org/software)
 * [Logism](https://sourceforge.net/projects/circuit/files/latest/download) ([Tutorial](http://www.cburch.com/logisim/docs/2.3.0/guide/index.html))
 * [Licecap](https://www.cockos.com/licecap/) (standalone EXE included in utils folder for Windows users; other screen -> GIF software okay too!)
+* (Recommended)[Visual Studio Code](https://code.visualstudio.com/)
 
 ## Github Usage
 All projects will be hosted in Github using this organization (HSU-F20-CS243).  You can get enrolled in this organization by taking the following steps:
