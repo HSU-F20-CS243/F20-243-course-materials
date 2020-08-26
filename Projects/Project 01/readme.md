@@ -51,3 +51,6 @@ You will be graded using the following:
 * [20 pts] Creating logism diagrams for each of your chips
 * [10 pts] Writing a good design diary
 * [5 pts] Writing a good buddy report
+
+# Due Date
+This project is due by Midnight on September 1, 2020.
