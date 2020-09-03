@@ -46,8 +46,8 @@ Your buddy report will be submitted on canvas and **__should not__** be included
 
 # Grading
 You will be graded using the following:
-* [67 pts] Building working chips ( [see grading PDF](https://github.com/HSU-F20-CS243/F20-243-course-materials/blob/master/Projects/Project%2001/project%2001%20gates%20grade%20sheet.pdf) )
-* [33 pts] Building efficient chips ( [see grading PDF](https://github.com/HSU-F20-CS243/F20-243-course-materials/blob/master/Projects/Project%2001/project%2001%20gates%20grade%20sheet.pdf) )
+* [67 pts] Building working chips ( [see grading PDF](https://github.com/HSU-F20-CS243/F20-243-course-materials/blob/master/Projects/Project%2002/project%2002%20grade%20sheet.pdf) )
+* [33 pts] Building efficient chips 
 * [20 pts] Creating logism diagrams for each of your chips
 * [10 pts] Writing a good design diary
 * [5 pts] Writing a good buddy report
