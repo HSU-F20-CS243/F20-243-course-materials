@@ -46,7 +46,7 @@ Your buddy report will be submitted on canvas and **__should not__** be included
 
 # Grading
 You will be graded using the following:
-* [66 pts] Building working chips ( [see grading PDF](3-grade_sheed.pdf) )
+* [66 pts] Building working chips (see grade sheet in this folder)
 * [33 pts] Building efficient chips 
 * [20 pts] Creating logism diagrams for each of your chips
 * [10 pts] Writing a good design diary
