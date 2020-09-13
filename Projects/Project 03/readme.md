@@ -11,6 +11,9 @@ Once created, your repository should have:
 * a "diagrams" directory that contains PNG or JPEG images of each of your chips
 * a "results" directory that contains screenshots from the testing results obtained through the hardware simulator
 
+Below is an example screenshot that I am expecting for each test:
+![example screenshot](example_ss.png)
+
 **__NOTICE:__** Failing to set up your repository correctly will result in reduced assignment credit.  
 
 # Design Diary Prompt
