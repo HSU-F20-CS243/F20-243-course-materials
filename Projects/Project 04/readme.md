@@ -1,6 +1,6 @@
 # CS 243 Assignment #1 - Chapter 
 1. Complete the project listed at the end of chapter 4 in the book.    
-2. Write a program that calculates the Nth Fibonacci number stored in R1.  *_NOTE_* There is no test file for this task.
+2. Write a program that calculates the Nth Fibonacci number stored in R0.  Store the result in R1.  *_NOTE_* There is no test file for this task.
 
 # Getting Started
 Begin by creating a private repository in the course's [GitHub organization](https://github.com/HSU-F20-CS243).
@@ -49,8 +49,7 @@ Your buddy report will be submitted on canvas and **__should not__** be included
 
 # Grading
 You will be graded using the following:
-* [66 pts] Building working chips (see grade sheet in this folder)
-* [33 pts] Building efficient chips 
+* [155 pts] Building programs (see grade sheet in this folder)
 * [10 pts] Writing a good design diary
 * [5 pts] Writing a good buddy report
 
