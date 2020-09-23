@@ -8,10 +8,16 @@ Your repository name **__must__** be in the following format: ```p04-{HSU LOGIN}
 name would be ```p04-asc564```.  
 
 Once created, your repository should have:
-* a "hack" directory that contains your Hack solutions
-* a "results" directory that contains screenshots from the testing results obtained through the CPU simulator
+* an "asm" directory that contains your assembly solutions
+* a "results" directory that contains screenshots and animated GIFs from the testing results obtained through the CPU simulator
+   * For the "fill" program, please uploaded an animated GIF
+   * For the "mult" program, please upload a screenshot of the test results
+   * For the "Fibonacci" program, please upload an animated GIF of the program running.  The program should show the correct result being calculated in R1.
 
-Below is an example screenshot that I am expecting for each test:
+Below is an example GIF for the "fill" program:
+![fill program](fill.gif)
+
+Below is an example static screenshot with test results:
 ![example screenshot](example_ss.png)
 
 **__NOTICE:__** Failing to set up your repository correctly will result in reduced assignment credit.  
