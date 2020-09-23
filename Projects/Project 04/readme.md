@@ -1,15 +1,15 @@
 # CS 243 Assignment #1 - Chapter 
-Complete the project listed at the end of chapter 3 in the book.    
+1. Complete the project listed at the end of chapter 4 in the book.    
+2. Write a program that calculates the Nth Fibonacci number stored in R0.  Store the result in R1.  *_NOTE_* There is no test file for this task.
 
 # Getting Started
 Begin by creating a private repository in the course's [GitHub organization](https://github.com/HSU-F20-CS243).
-Your repository name **__must__** be in the following format: ```p03-{HSU LOGIN}```.  Thus, my project repository
-name would be ```p03-asc564```.  
+Your repository name **__must__** be in the following format: ```p04-{HSU LOGIN}```.  Thus, my project repository
+name would be ```p04-asc564```.  
 
 Once created, your repository should have:
-* a "chips" directory that contains your HDL solutions
-* a "diagrams" directory that contains PNG or JPEG images of each of your chips
-* a "results" directory that contains screenshots from the testing results obtained through the hardware simulator
+* a "hack" directory that contains your Hack solutions
+* a "results" directory that contains screenshots from the testing results obtained through the CPU simulator
 
 Below is an example screenshot that I am expecting for each test:
 ![example screenshot](example_ss.png)
@@ -49,11 +49,9 @@ Your buddy report will be submitted on canvas and **__should not__** be included
 
 # Grading
 You will be graded using the following:
-* [66 pts] Building working chips (see grade sheet in this folder)
-* [33 pts] Building efficient chips 
-* [20 pts] Creating logism diagrams for each of your chips
+* [155 pts] Building programs (see grade sheet in this folder)
 * [10 pts] Writing a good design diary
 * [5 pts] Writing a good buddy report
 
 # Due Date
-This project is due by Midnight on September 21, 2020.  Your repository should contain all chips, diagrams, and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
+This project is due by Midnight on October 11, 2020.  Your repository should contain all code and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
