@@ -60,4 +60,4 @@ You will be graded using the following:
 * [5 pts] Writing a good buddy report
 
 # Due Date
-This project is due by Midnight on October 11, 2020.  Your repository should contain all code and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
+This project is due by Midnight on October 1, 2020.  Your repository should contain all code and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
