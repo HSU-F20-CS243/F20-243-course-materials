@@ -8,10 +8,16 @@ Your repository name **__must__** be in the following format: ```p04-{HSU LOGIN}
 name would be ```p04-asc564```.  
 
 Once created, your repository should have:
-* a "hack" directory that contains your Hack solutions
-* a "results" directory that contains screenshots from the testing results obtained through the CPU simulator
+* an "asm" directory that contains your assembly solutions
+* a "results" directory that contains screenshots and animated GIFs from the testing results obtained through the CPU simulator
+   * For the "fill" program, please uploaded an animated GIF
+   * For the "mult" program, please upload a screenshot of the test results
+   * For the "Fibonacci" program, please upload an animated GIF of the program running.  The program should show the correct result being calculated in R1.
 
-Below is an example screenshot that I am expecting for each test:
+Below is an example GIF for the "fill" program:
+![fill program](fill.gif)
+
+Below is an example static screenshot with test results:
 ![example screenshot](example_ss.png)
 
 **__NOTICE:__** Failing to set up your repository correctly will result in reduced assignment credit.  
@@ -54,4 +60,4 @@ You will be graded using the following:
 * [5 pts] Writing a good buddy report
 
 # Due Date
-This project is due by Midnight on October 11, 2020.  Your repository should contain all code and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
+This project is due by Midnight on October 1, 2020.  Your repository should contain all code and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
