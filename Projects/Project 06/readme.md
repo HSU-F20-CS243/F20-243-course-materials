@@ -6,12 +6,11 @@ Begin by creating a private repository in the course's [GitHub organization](htt
 Your repository name **__must__** be in the following format: ```p06-{HSU LOGIN}```.  Thus, my project repository
 name would be ```p06-asc564```. 
 
-I have provided [starter code](https://github.com/HSU-F20-CS243/p06-starter) that I *highly* recommend that your base your project on. 
+All projects must be written in the C++ language.  I have provided [starter code](https://github.com/HSU-F20-CS243/p06-starter) that I *highly* recommend that your base your project on. 
 
 Once created, your repository should have a src directory that contains all of your code (.cpp and .h files).  If you're using Visual Studio, be sure to include your entire project directory.
 
-Below is an example static screenshot with test results:
-![example screenshot](example_ss.png)
+For each assembly program provided to you by the book, create an animated GIF showing you compile the program from assembler into binary and running the results in the CPU emulator.  
 
 **__NOTICE:__** Failing to set up your repository correctly will result in reduced assignment credit.  
 
